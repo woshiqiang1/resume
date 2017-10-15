@@ -1,6 +1,6 @@
 # My Resume
 
-[](预览链接)
+[https://woshiqiang1.github.io/resume/](预览链接)
 
 
 ## Development
